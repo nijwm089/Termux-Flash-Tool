@@ -1,4 +1,4 @@
-<img align="right" src="TRRT.jpg" width="351" alt="Termux Flash Tool">
+<img align="right" src="Screenshot_2024-07-11-17-58-54-574_com.termux.jpg" width="351" alt="Termux Flash Tool">
 
 # Termux-Flash-Tool
 This tool install Twrp Recovery, Boot.img, vbmeta.img Magisk Root in bootloader unlocked devices only
